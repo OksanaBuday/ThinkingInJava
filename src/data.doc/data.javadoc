@@ -1,0 +1,23 @@
+/**
+ * Created by Oksana on 04.01.2017.
+ */
+
+import javax.xml.crypto.Data;
+import java.util.Date;
+
+/** перша програма приклад книги
+ * виводить рядок в поточне число
+ * @author Брюс Єккель
+ * @author www.MindVied.net
+ * @version 4.0
+ */
+public class data {
+    /** Точка входу в клас і додаток
+     * @param args
+     * @thows exeptions
+     */
+    public static void main ( String [] args){
+     System.out.println(  "Привіт сьогодні:" );
+     System.out.println(new Date());
+    }
+}

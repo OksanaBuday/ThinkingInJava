@@ -1,0 +1,11 @@
+/**
+ * Created by Oksana on 01.01.2017.
+ */
+public class helloworld {
+    /* комент
+     */
+    public static void main(String[] args) {
+        System.out.println( " Hello World ");
+    }
+
+}
